@@ -1,6 +1,6 @@
 # Chat Bot
 
-![image alt]()
+![image alt](chatbot_img.png)
 
 ### Features
 
